@@ -51,6 +51,8 @@ class ProfileScreen extends StatelessWidget {
               onPressed: () {}, 
               child: Text('pray41811@gmail.com'),
             ),
+
+            
           ],
         ),
       ) ,
