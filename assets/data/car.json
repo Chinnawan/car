@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lamborghini Revuelto",
+    "licensePlate": "SP 999",
+    "imagePath": "lib/images/Lamborghini.png",
+    "price": "฿39,900,000",
+    "category": "Sport"
+  },
+  {
+    "name": "Nissan GT-R R35",
+    "licensePlate": "GTR 35",
+    "imagePath": "lib/images/gtr.png",
+    "price": "฿11,500,000",
+    "category": "Sport"
+  },
+  {
+    "name": "BMW i8 Roadster",
+    "licensePlate": "BMW 888",
+    "imagePath": "lib/images/car_into.png",
+    "price": "฿8,990,000",
+    "category": "Sport"
+  },
+  {
+    "name": "Toyota Yaris Ativ GR Sport",
+    "licensePlate": "YAR 2024",
+    "imagePath": "lib/images/ative.png",
+    "price": "฿699,000",
+    "category": "Eco Car"
+  },
+  {
+    "name": "Honda City Hatchback RS",
+    "licensePlate": "HDC 2024",
+    "imagePath": "lib/images/city.png",
+    "price": "฿749,000",
+    "category": "Eco Car"
+  },
+  {
+    "name": "Isuzu D-Max V-Cross",
+    "licensePlate": "DMX 4x4",
+    "imagePath": "lib/images/dmax.png",
+    "price": "฿1,217,000",
+    "category": "Truck"
+  },
+  {
+    "name": "Toyota Travo Prerunner",
+    "licensePlate": "TRV 456",
+    "imagePath": "lib/images/travo.png",
+    "price": "฿1,050,000",
+    "category": "Truck"
+  },
+  {
+    "name": "Honda Wave 125i",
+    "licensePlate": "WAVE 125",
+    "imagePath": "lib/images/wave.png",
+    "price": "฿55,200",
+    "category": "Motorcycle"
+  },
+  {
+    "name": "Yamaha XMAX 300",
+    "licensePlate": "XMX 300",
+    "imagePath": "lib/images/xmax.png",
+    "price": "฿189,900",
+    "category": "Motorcycle"
+  },
+  {
+    "name": "Honda PCX 160",
+    "licensePlate": "PCX 160",
+    "imagePath": "lib/images/pcx.png",
+    "price": "฿93,900",
+    "category": "Motorcycle"
+  }
+]

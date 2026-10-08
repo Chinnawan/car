@@ -1,0 +1,1 @@
+flutter run -d chrome --web-port=8080 --web-browser-flag "--user-data-dir=C:\flutter_chrome_session"
